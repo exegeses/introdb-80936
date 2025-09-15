@@ -1,0 +1,10 @@
+# LLMs (AI)
+
+1. ChatGPT (OpenAI)
+2. Gemini (Alphabet)
+3. Claude (Anthropic)
+4. Grox (X cloud)
+5. Copilot (Microsoft)
+6. Deepseek (Deepseek Cloud)
+7. Qwen (Alibaba Cloud)
+8. Llama (Meta)

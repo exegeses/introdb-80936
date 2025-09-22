@@ -30,3 +30,18 @@
     select * from clientes
       WHERE fechaAlta
       BETWEEN '2024-06-01'  AND '2024-06-30';  
+
+> Obtener todos los productos de las marcas
+> Logitech (idMarca = 14) 
+> y de la marca HP (idMarca = 7)
+
+    SELECT producto, precio  
+      FROM productos  
+      WHERE idMarca = 7  
+      OR idMarca = 14;  
+
+> función IN()
+
+    SELECT producto, precio  
+      FROM productos  
+      WHERE idMarca IN(7, 14);  
